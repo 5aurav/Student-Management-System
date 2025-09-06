@@ -10,7 +10,7 @@ This is a simple Student Management System written in Java. It allows you to:
 
 **Project Structure**
 
-
+<img width="750" height="158" alt="image" src="https://github.com/user-attachments/assets/47d86a5a-bc25-4b7e-aa16-ce2f9e8e6a5f" />
 
 **How It Works**
 1. Student.java
@@ -30,10 +30,10 @@ This is a simple Student Management System written in Java. It allows you to:
 + Lets the user select actions (Add, View, Update, Delete, Exit).
 
 4. students.txt
-+ Stores student data in this format:
-    id,name,marks
-    1467,Saurav Kumar Yadav,9.84
-    102,Anjali,8.70
++ Stores student data in this format:\
+    id,name,marks\
+    1467,Saurav Kumar Yadav,9.84\
+    102,Anjali,8.70\
 
 **How to Run**
 1. Compile the program
