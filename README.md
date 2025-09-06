@@ -33,7 +33,7 @@ This is a simple Student Management System written in Java. It allows you to:
 + Stores student data in this format:\
     id,name,marks\
     1467,Saurav Kumar Yadav,9.84\
-    102,Anjali,8.70\
+    102,Anjali,8.70
 
 **How to Run**
 1. Compile the program
